@@ -1,0 +1,1 @@
+insert into employees(first_name, last_name, title_id, phone_number) values("Joe", "Beef", 2, "416-316-0426");
